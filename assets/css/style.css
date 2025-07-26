@@ -132,6 +132,7 @@ textarea {
     .container{
         width: 90%;
         margin-top: 300px;
+        margin-bottom: 300px;
     }
 
     .content {
